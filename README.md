@@ -4,7 +4,7 @@
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 ## Key Questions
-● What are the busiest days of the week and hours of  day?
+● What are the busiest days of the week and hours of  day? <br>
 ● Are there particular times of the day when people spend the most money?
 ● Marketing and sales want to use simpler price range groupings to help direct their efforts.
 ● Are there certain types of products that are more popular than others?
