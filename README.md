@@ -1,7 +1,7 @@
 # Instacart Data Analysis using Python
 
 ## Introduction
-This is a data analysis project using Python.
+This is a data analysis project using Python. <br>
 Modules used:
 - import pandas as pd
 - import numpy as np
